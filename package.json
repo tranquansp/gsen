@@ -1,0 +1,40 @@
+{
+    "name": "grpc_hoasen",
+    "version": "1.0.0",
+    "description": "Hoa sen la quoc hoa Viet Nam",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tranquansp/gsen.git"
+    },
+    "dependencies": {
+      "@grpc/proto-loader": "^0.4.0",
+      "ascallback": "^1.1.1",
+      "destroy": "^1.0.4",
+      "dotenv": "^4.0.0",
+      "ee-first": "^1.1.1",
+      "error-inject": "^1.0.0",
+      "grpc": "^1.18.0",
+      "grpc-create-metadata": "^3.0.0",
+      "grpc-inspect": "^0.6.0",
+      "is-stream": "^1.1.0",
+      "koa-json": "^2.0.2",
+      "koa-logger": "^2.0.0",
+      "koa-router": "^7.3.0",
+      "lodash": "^4.17.11",
+      "moment": "^2.18.1",
+      "moment-timezone": "^0.5.17",
+      "p-map": "^2.0.0",
+      "pify": "^4.0.1",
+      "q-encoding": "^1.0.0",
+      "request": "^2.83.0",
+      "request-promise": "^4.2.2"
+    },
+    "keywords": [
+      "g_hoasen"
+    ],
+    "author": "quant",
+    "license": "ISC",
+    "homepage": ""
+  }
+  
