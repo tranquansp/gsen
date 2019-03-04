@@ -1,7 +1,7 @@
 {
-    "name": "grpc_hoasen",
+    "name": "gsen",
     "version": "1.0.0",
-    "description": "Hoa sen la quoc hoa Viet Nam",
+    "description": "Hoa sen la quoc hoa cua Viet Nam",
     "main": "index.js",
     "repository": {
       "type": "git",
@@ -31,7 +31,7 @@
       "request-promise": "^4.2.2"
     },
     "keywords": [
-      "g_hoasen"
+      "grpc hoasen"
     ],
     "author": "quant",
     "license": "ISC",
